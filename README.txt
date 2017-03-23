@@ -1,0 +1,1 @@
+Note: Formspree must be configured for each page before deployment.

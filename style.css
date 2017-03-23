@@ -1,0 +1,19 @@
+#main-footer {
+    background: #262f36;
+    color: white;
+    padding: 6rem 0;
+    padding-bottom: 0;
+    font-size: 0.8rem;
+}
+
+#main-footer h6 {
+    color: #718fa9;
+}
+
+#main-footer a {
+    color: #6c6f73
+}
+
+#footer-email{
+    padding:0;
+}
